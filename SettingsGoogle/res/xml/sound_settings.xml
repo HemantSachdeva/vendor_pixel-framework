@@ -207,11 +207,6 @@
         android:title="@string/dial_pad_tones_title" />
 
     <SwitchPreference
-        android:key="in_call_notifications"
-        android:order="-47"
-        android:title="@string/in_call_notifications_title" />
-
-    <SwitchPreference
         android:key="screen_locking_sounds"
         android:order="-45"
         android:title="@string/screen_locking_sounds_title" />
@@ -240,11 +235,6 @@
         android:key="touch_sounds"
         android:order="-30"
         android:title="@string/touch_sounds_title" />
-
-    <SwitchPreference
-        android:key="nfc_sounds"
-        android:order="-28"
-        android:title="@string/nfc_sounds_title" />
 
     <SwitchPreference
         android:key="vibrate_icon"
